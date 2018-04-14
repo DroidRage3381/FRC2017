@@ -1,0 +1,17 @@
+La Cross To Do List For Programming:
+
+1.Get Some Coffee
+
+2.Change Encoder Value
+
+3.Get Autonomous Distances
+
+4.Get Autonomous Angle
+
+5.Get  Some More Coffee
+
+6.Set Autonomous values
+
+7.Check Over Code
+
+6.Get Even More Coffee

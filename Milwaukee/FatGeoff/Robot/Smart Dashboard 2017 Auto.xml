@@ -1,0 +1,70 @@
+<xml version="1.0">
+<dashboard>
+	<static-widget class="edu.wpi.first.smartdashboard.gui.elements.CameraServerViewer">
+		<location x="754" y="1"/>
+		<width>574</width>
+		<height>448</height>
+		<property name="Degrees Rotation" value="180"/>
+		<property name="Camera Choice" value=""/>
+	</static-widget>
+	<widget field="AutoDriveSecondCommand" type="Command" class="edu.wpi.first.smartdashboard.gui.elements.Command">
+		<location x="0" y="344"/>
+	</widget>
+	<widget field="AutoDriveTurnDrive" type="Command" class="edu.wpi.first.smartdashboard.gui.elements.Command">
+		<location x="0" y="310"/>
+	</widget>
+	<static-widget class="edu.wpi.first.smartdashboard.gui.elements.RobotPreferences">
+		<location x="286" y="114"/>
+		<width>401</width>
+		<height>314</height>
+	</static-widget>
+	<widget field="AutonomousCommandTurn" type="Command" class="edu.wpi.first.smartdashboard.gui.elements.Command">
+		<location x="21" y="93"/>
+	</widget>
+	<widget field="AutoDriveAndTurn" type="Command" class="edu.wpi.first.smartdashboard.gui.elements.Command">
+		<location x="29" y="60"/>
+	</widget>
+	<widget field="AutoShoot" type="Command" class="edu.wpi.first.smartdashboard.gui.elements.Command">
+		<location x="35" y="173"/>
+	</widget>
+	<widget field="Drive Encoder" type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="44" y="277"/>
+	</widget>
+	<widget field="Turn Angle" type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="56" y="239"/>
+	</widget>
+	<widget field="AutonomousCommandDrive" type="Command" class="edu.wpi.first.smartdashboard.gui.elements.Command">
+		<location x="23" y="133"/>
+	</widget>
+	<widget field="AutoShootDriveTurn" type="Command" class="edu.wpi.first.smartdashboard.gui.elements.Command">
+		<location x="22" y="25"/>
+	</widget>
+	<widget field="Shooter RPM" type="Number" class="edu.wpi.first.smartdashboard.gui.elements.TextBox">
+		<location x="293" y="8"/>
+	</widget>
+</dashboard>
+<live-window>
+</live-window>
+	<hidden field="CommandLifterUp"/>
+	<hidden field="Rotate X"/>
+	<hidden field="Command 1"/>
+	<hidden field="Pinch"/>
+	<hidden field="CommandBallPickUpForward"/>
+	<hidden field="OpenGate: 0.65"/>
+	<hidden field="TimedShooter"/>
+	<hidden field="TimedHopper"/>
+	<hidden field="Drive Y"/>
+	<hidden field="CommandBallShooter"/>
+	<hidden field="Open"/>
+	<hidden field="OpenRight"/>
+	<hidden field="OpenLeft"/>
+	<hidden field="PIDBallShooter"/>
+	<hidden field="CloseGate: 0.65"/>
+	<hidden field="CommandDriveReverse"/>
+	<hidden field="CommandHopperBack"/>
+	<hidden field="CommandDrive"/>
+	<hidden field="PinchLeft"/>
+	<hidden field="PinchRight"/>
+	<hidden field="CommandBallPickUpReverse"/>
+	<hidden field="CommandHopper"/>
+</xml>

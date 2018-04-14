@@ -1,0 +1,17 @@
+Robots half way point is 19 1/4 inches
+
+Autonomous 
+
+center gear only
+drive forward 75 inches
+
+left side gear only mesuments
+drive foward 103inches
+turn -45 degrees
+drive forward 44inches
+
+
+Right side gear only mesurments
+drive forward 107inches
+turn 45 degrees
+drive forward 44inches
